@@ -1,0 +1,6 @@
+# Data Files and folders
+datasets/
+*.csv
+
+# Other files and folders
+.settings/
